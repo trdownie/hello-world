@@ -3,6 +3,6 @@ My First Repositary
 
 Hello brothers and sisters of the pale blue dot
 
-I'm Terry. I'm a writer and a maths geek, finally deciding to learn how to code.
+I'm Terry. I'm a writer and a maths geek.
 
-Play nice!
+I'm finally deciding to learn how to code with #100daysofcode.
